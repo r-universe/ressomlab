@@ -8,8 +8,3 @@
 	url = https://github.com/ressomlab/indeed
 	shallow = true
 	registered = true
-[submodule "MetID"]
-	path = MetID
-	url = https://github.com/ressomlab/metid
-	shallow = true
-	registered = true
