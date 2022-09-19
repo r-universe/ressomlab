@@ -3,8 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "INDEED"]
-	path = INDEED
-	url = https://github.com/ressomlab/indeed
+[submodule "MetID"]
+	path = MetID
+	url = https://github.com/ressomlab/metid
 	shallow = true
 	registered = true
